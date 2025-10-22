@@ -1,7 +1,7 @@
 <h1 align="center"> LP Project - Tents and Trees Solver </h1>
 
 <p align="center">
-  <img src="image_192aa2.png" alt="Tents and Trees" width="250"/>
+  <img src="lp-hero-image.png" alt="Tents and Trees" width="350"/>
 </p>
 
 This repository contains the project for the "Lógica para Programação" (Programming Logic) course @IST Instituto Superior Técnico (2023/2024). The project consists of a solver for the "Tents and Trees" puzzle, written entirely in Prolog.
